@@ -25,3 +25,10 @@ html, body {
   background: green;
   text-align: center;
 }
+
+.block-4 {
+  width: 100%;
+  height: 300px;
+  background: blue;
+  text-align: center;
+}
