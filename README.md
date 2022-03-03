@@ -29,13 +29,7 @@
 
 
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarazhiev&langs_count=8&layout=compact" />
-    <br />
-    <br>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sarazhiev&show_icons=true" />
-</details>
+
 
 [linkedin]: https://www.linkedin.com/in/abdurazzak-namatbekov-59951722b
 [instagram]: https://www.instagram.com/toloev01/
